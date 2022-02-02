@@ -1,0 +1,7 @@
+site_name: Instrukcja
+theme:
+  name: material
+  language: pl
+  features:
+    - search.highlight
+    - search.suggest
