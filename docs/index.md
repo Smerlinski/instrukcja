@@ -1,8 +1,8 @@
-# Instrukcja użytkownika
+# Wprowadzenie
 
-## Wprowadzenie
+## Wstęp
 
-W budynku zaprojektowano Platformę FM w oparciu o oprogramowanie imperius FM firmy PROMAR Sp. z o. o. Platforma ta tworzy jednolite środowisko ale realizuje funkcjonalności następujących narzędzi (modułów): 
+W budynku zaprojektowano Platformę FM w oparciu o oprogramowanie imperiusFM firmy PROMAR Sp. z o. o. Platforma ta tworzy jednolite środowisko ale realizuje funkcjonalności następujących narzędzi (modułów): 
 
 * Moduł AIM - czyli zorientowana obiektowo baza danych, zawierającą wszelkie niezbędne dla zarządzania majątkiem trwałym informacje o każdym elemencie budowli czy infrastruktury. Moduł zawiera dane graficzne i nie graficzne, dokumenty i metadane a jego celem jest konsekwentne zarządzanie obiegiem informacji w całym cyklu życia obiektu. 
 * Moduł CMMS wspomagający utrzymanie ruchu. Głównym jego zadaniem jest pomoc w planowaniu przeglądów i konserwacji urządzeń i instalacji technicznych. Podstawowym modułem programu są rejestry obsługiwanych urządzeń i instalacji wraz z ich wymaganiami technicznymi (rejestry maszyn, podzespołów, urządzeń, instalacji). Moduł umożliwia wizualizację urządzeń na planach budynku w oparciu o model BIM. Moduł zawiera również rejestr wykonawców przewidzianych do realizacji zadań utrzymania ruchu w tym dane kontaktowe, specjalizacje, dostępność oraz szczegóły zapisów umowy.  Moduł CMMS umożliwia również wprowadzanie interwencji nieplanowanych, generowanie tygodniowych planów pracy oraz poleceń pracy dla poszczególnych specjalistów. 
@@ -20,7 +20,8 @@ Dostęp do Platformy FM możliwy jest z dowolnego komputera pracującego w sieci
 * Przeglądarka internetowa Mozilla Firefox w wersji v. 93.0
 * Przeglądarka internetowa Google Chrome w wersji v. 93.0
 * Przeglądarka internetowa Opera w wersji v. 78.0
-* Przeglądarka internetowa Microsoft Edge w wersji v. 94.0 
+* Przeglądarka internetowa Microsoft Edge w wersji v. 94.0 <br>
+
 Aby rozpocząć korzystanie z Platformy FM w polu adresu przeglądarki internetowej należy wpisać adres http://10.30.30.10 (adres ten może ulec zmianie po przejęciu obiektu przez służby IT zamawiającego). 
 
 ### Logowanie do systemu
@@ -89,7 +90,7 @@ grup można rozwijać poprzez kliknięcie na jej nazwę. Po zalogowaniu zawsze r
 
 Powyższe obrazy przedstawiają pełne menu Platformy FM, jednak jest w tej postaci jest ono dostępne jedynie użytkownikom o
 roli administratora. Ilość dostępnych narzędzi jest różna w zależności od roli posiadanej przez użytkownika. Dla 
-przykładu - menu widoczne z punktu widzenia standardowego użytkownika przedstawione zostało na poniżej
+przykładu - menu widoczne z punktu widzenia standardowego użytkownika przedstawione zostało poniżej
 ![Panel standardowego użytkownika](images/panel-standardowego-uzytkownika.png)
 W ramce o numerze **3.** oznaczono skróconą listę narzędzi widoczną dla użytkownika o roli *“Standardowy użytkownik”*.
 Głównym elementem interfejsu jest *panel użytkownika* czyli zbiór kart które użytkownik wybrał do obserwowania (zostanie to omówione w dalszej części instrukcji) lub są do tego użytkownika przydzielone (w formie zadań, rezerwacji lub innych 
@@ -97,3 +98,13 @@ powiązań), czyli dane z systemu można dodać samodzielnie lub zostają przypi
 mieć one kilka stanów. Kolor czerwony oznacza, że minął termin wykonania. Wyszarzona karta wskazuje, że zadania zostało 
 ukończone. Oznaczony na obrazie przycisk oznaczony numerem **1.** to przycisk służący do rozwinięcia menu pomocniczego.
 Pod numerem **2.** oznaczono filtry pozwalające wybrać jakiej grupy mają być wyświetlane karty. 
+
+## Widok tabelaryczny
+Poruszając się po systemie użytkownik często będzie miał do czynienia z wszelkiego rodzaju zestawieniami tabelarycznymi. Poniżej omówiono sposoby poruszania się generalnie we wszystkich tego rodzaju narzędziach systemu
+![Widok tabelaryczny](images/widok-tabelaryczny.png)
+Po otwarciu grupy definicji (**1.**) i kliknięciu na wybraną definicję (**2.**) otworzy się ekran ze wszystkimi obiektami do niej należącymi. W prawym górnym rogu (**3.**) znajdują się przyciski do wyboru w jaki sposób mają być prezentowane dane. Poniżej (**4.**) dostępne są filtry pozwalające zawęzić wyświetlane informacje. Przycisk (**5.**) pozwala na zwinięcie panelu filtrów wraz z wyborem widoku. Przycisk (**6.**) daje możliwość eksportu danych. Po kliknięciu rozwinie się lista wraz ze wszystkimi dostępnymi formatami. Kliknięcie w nagłówek tabeli (**7.**) segreguje dane po wybranym polu w sposób rosnący lub malejący. Relacje do danego obiektu wyświetlane są w dwojaki sposób (**8.**), jeśli relacji jest wiele to wyświetlana jest tylko ich liczba. W innym wypadku wyświetlana jest dokładna relacja. 
+
+W interfejsie użytkownika znajduje się też dolna pozioma belka którą pokazano na kolejnej ilustracji
+![Zmiana hasła](images/panel-uzytkownika-zmiana-hasla.png)
+Najważniejsze przyciski na tej belce to oznaczony numerem **1** przycisk odpowiedzialny za wylogowywanie a numerem **2** 
+przejście do podstrony pozwalającej na zmianę hasła. 
