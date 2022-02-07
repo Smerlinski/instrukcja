@@ -1,4 +1,5 @@
 # Moduł AIM 
+
 ## Branże i kategorie
 Ważnym elementem modułu AIM jest drzewo Branż i Kategorii które szereguje wszystkie elementy budynku zawarte w bazie AIM. 
 ![Widok tabelaryczny branży](images/branze-tabela.png)
