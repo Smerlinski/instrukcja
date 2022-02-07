@@ -10,7 +10,7 @@ relacje do wszystkich liczników które biorą udział w rozliczaniu danego medi
 prezentuje przykładową kartę media energetycznego.
 ![Widok na szczegóły mediów](images/media-szczeg.png)
 Powiązane po prawej stronie karty Liczniki pomiarowe również posiadają swoje karty w systemie. Można je otworzyć za
-pośrednictwem powyższej karty lub wchodząc w podmenu “Liczniki Energii” lub “Liczniki wody”. Poniżej przedstawiono
+pośrednictwem powyższej karty lub wchodząc w podmenu “*Liczniki Energii*” lub “*Liczniki wody*”. Poniżej przedstawiono
 przykładową kartę licznika energii
 ## Liczniki
 ![Widok na szczegóły licznika](images/licznik-szczeg.png)
@@ -18,7 +18,7 @@ Karty Liczników energii oraz karty liczników wody poza podstawowymi elementami
 dzienne, tygodniowe, miesięczne i roczne dla zużyć energii i wody. Dane te mogą być prezentowane na wykresach liniowych
 bądź słupkowych.
 Każdy licznik posiadać może relację do licznika podrzędnego i licznika nadrzędnego co pozwala rysować strukturę przepływu
-mediów. Struktura ta jest prezentowana po kliknięciu na przycisk “Wykresy” w zestawieniu zbiorczym liczników. Taka
+mediów. Struktura ta jest prezentowana po kliknięciu na przycisk “*Wykresy*” w zestawieniu zbiorczym liczników. Taka
 struktura zaprezentowana została na poniższym obrazie.
 ![Widok na strukturę liczników](images/licznik-struk.png)
 Użytkownik znajdujący się w zestawieniu liczników ma możliwość generowania wykresów porównawczych jak pokazano na

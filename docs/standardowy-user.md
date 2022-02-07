@@ -37,3 +37,13 @@ zadanie to osobna karta(**3.**). Jeśli użytkownik przejmie zadanie to jego awa
 Widok na szczegóły karty zadania (dostępny po kliknięciu na kartę zadania). Na dole znajdują się przyciski do przejmowania
 (**1.**) oraz do zakończenia danego zadania(**2.**). Zadania przydzielone do danego użytkownika pojawiają się również w
 jego kalendarzu tworząc tygodniowy plan pracy jak pokazano na poniższej ilustracji.
+
+
+## Kalendarz
+![Widok na kalendarz](images/kalendarz.png)
+Przejście do kalendarza następuje poprzez wciśnięcie przycisku (**1.**) na menu pomocniczym. Obecna data i godzina
+oznaczona jest czerwoną poziomą kreską (**2.**) a występujące zadania wyświetlane są przy użyciu kafelek (**3.**)
+Zadania, które nie zostały wykonane w czasie podświetlane są na czerwono, natomiast najechanie kursorem na kafelek
+sprawia, że pojawia się karta ze szczegółami danego zadania. W prawym dolnym rogu znajdują się przyciski do kontrolowania
+kalendarza. Od góry jest to przejście do następnego tygodnia (**4.**), przejście do poprzedniego tygodnia (**5.**) i
+przeniesienie do dnia dzisiejszego (**6.**)
