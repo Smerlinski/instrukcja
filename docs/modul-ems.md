@@ -1,4 +1,5 @@
 # Moduł EMS
+
 ## Media
 Istotną częścią modułu EMS jest opis systemu dystrybucji mediów zawarty w narzędziu Media. Zawiera on informacje o
 wszystkich rodzajach mediów wykorzystywanych w budynkach UMWZP wraz z najważniejszymi informacjami. Poniższy obraz
@@ -29,6 +30,7 @@ się pole (**3.**) gdzie można wybrać zakres dat z jakich dane mają być wyś
 więcej wykresów to pojawiają się one jeden pod drugim i należy zjechać w dół strony, aby zobaczyć kolejne.
 Ilość typów wykresów które mogą być prezentowane w tym miejscu konfigurowana jest przez użytkowników z odpowiednimi
 uprawnieniami w następujący sposób.
+### Tworzenie wykresu
 ![Widok na tworzenie wykresu](images/licznik-wykresy.png)
 Aby dodać nowy wykres należy najechać kursorem na nazwę definicji a następnie kliknąć ikonę wykresu (**1.**) Na dole
 strony (**2.**) pokazane są wszystkie rodzaje dostępnych wykresów. Po kliknięciu w któryś rodzaj pojawi się karta (**3.**). Należy w niej wprowadzić nazwę wykresu (**4.**), wybrać czy wykres ma dotyczyć jednego czy wielu obiektów (**5.**) jak
