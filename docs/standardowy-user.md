@@ -1,0 +1,39 @@
+# Widok standardowego użytkownika
+
+## Dodawanie rezerwacji 
+![Widok dodawnia nowej rezerwacji](images/standard-add-rez.png)
+Po najechaniu na nazwę rezerwacji pojawi się mała ikona plusa, którą należy kliknąć aby dodać nową rezerwację. Należy
+wprowadzić odpowiednie dane, a następnie kliknąć kartę na której pojawią się te dane. Powyżej obramowana czerwonym
+kolorem. Spowoduje to przeniesienie do szczegółów tworzonej rezerwacji. 
+![Widok szczegółów dodawania nowej rezerwacji](images/standard-rez-szczeg.png)
+Powyżej widok do którego przechodzi się poprzez kliknięcie karty z poprzedniego przykładu. Po upewnieniu się, że
+wprowadzone dane są poprawne należy kliknąć zielony przycisk ***ZAPISZ OBIEKT***. Jeśli nie ma żadnych błędów związanych
+z wprowadzonymi danymi to przycisk zmieni napis na ***ZAKOŃCZ EDYCJĘ***. Aby rezerwacja trafiła do systemu należy kliknąć
+powyższy przycisk a następnie to potwierdzić kolejnym kliknięciem przycisku zanim zniknie zielony pasek.
+<figure markdown>
+  ![Widok na utworzoną rezerwację](images/standard-added-rez.png)
+  <figcaption>Widok karty rezerwacji w systemie</figcaption>
+</figure>
+Dopiero po zakończeniu edycji karta rezerwacji zostanie wyświetlona na panelu użytkownika. 
+
+## Dodawanie zgłoszenia
+![Widok dodawnia nowego zgłoszenia](images/standard-zglosz-1.png)
+Dodawanie zgłoszenia jest bardzo podobne do dodawania rezerwacji. Należy kliknąć ikonę plusa przy nazwie zgłoszenia,
+wprowadzić odpowiednie dane i kliknąć kartę zaznaczoną na czerwono na powyższym przykładzie.
+![Widok tworzenia nowego zgłoszenia](images/standard-zglosz-2.png)
+Po kliknięciu na kartę i przejściu do powyższego widoku należy upewnić się, że wprowadzone dane są poprawnie a następnie
+kliknąć przycisk ***ZAPISZ OBIEKT***. Jeśli nie ma żadnych błędów związanych z wprowadzonymi danymi to przycisk zmieni
+napis na ***ZAKOŃCZ EDYCJĘ***. Aby zgłoszenie trafiło do systemu należy kliknąć powyższy przycisk a następnie to
+potwierdzić kolejnym kliknięciem przycisku zanim zniknie zielony kolor.
+
+## Obsługa zadań
+Jeśli zadanie jest przydzielone do danego użytkownika to znajduje się w formie karty na jego panelu głównym jak pokazano
+na poniższej ilustracji.
+![Widok na dashboard użytkownika](images/standard-zadanie-1.png)
+Na samej górze (**1.**) znajduje się przełącznik odpowiedzialny za wyświetlanie lub ukrywanie zadań zakończonych. Każde
+zadanie to osobna karta(**3.**). Jeśli użytkownik przejmie zadanie to jego awatar pojawi się w lewym górnym rogu kart
+(**2.**). Do obsługi zadań służą przyciski opisane na kolejnej ilustracji.
+![Widok na dashboard użytkownika](images/standard-zadanie-2.png)
+Widok na szczegóły karty zadania (dostępny po kliknięciu na kartę zadania). Na dole znajdują się przyciski do przejmowania
+(**1.**) oraz do zakończenia danego zadania(**2.**). Zadania przydzielone do danego użytkownika pojawiają się również w
+jego kalendarzu tworząc tygodniowy plan pracy jak pokazano na poniższej ilustracji.

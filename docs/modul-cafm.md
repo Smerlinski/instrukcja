@@ -39,6 +39,7 @@ W bazie CAFM widoczne są wszystkie przedmioty wprowadzone do systemu.
 W szczegółach przedmiotu po lewej stronie znajdują się podstawowe informacje takie jak model, producent czy data końca 
 gwarancji. Po prawej stronie sprawdzić można kto odpowiada za dany przedmiot oraz w jakich okresach będzie wypożyczony.
 
+## Usługi
 ![Widok na tabele usług](images/uslugi-tab.png)
 Usługi to baza świadczeń potrzebnych do codziennej pracy.
 
@@ -46,6 +47,7 @@ Usługi to baza świadczeń potrzebnych do codziennej pracy.
 W szczegółach danej usługi po lewej stronie dostępny jest jej zakres, zaś po prawej stronie znajdują się pliki niezbędne
 do realizacji tych usług (np. formularze, cenniki czy umowy)
 
+## Umowy
 Moduł “Umowy” jest istotną częścią systemu i stanowić może zbiór umów wiążących usługi opisywane w różnych modułach
 Platformy FM. Umowy dotyczyć mogą zleceń międzywydziałowych czy kontraktów zawieranych z kontrahentami 
 ![Widok na tabele umów](images/umowy-tab.png)
@@ -54,18 +56,21 @@ numer umowy, czas trwania umowy czy jej zakres. Po prawej stronie widoczne jest 
 kontrahentem została zawarta. Widok przykładowej karty umowy zaprezentowano na kolejnym obrazie.
 ![Widok na szczegóły umowy](images/umowy-szczeg.png)
 
+## Budynki
 Moduł “Budynki” to kolejny element systemu który opisuje wszystkie lokalizacje w których realizowana jest praca z
 Platformą FM.
 ![Widok na szczegóły budynku](images/budynki-szczeg.png)
 W szczegółach budynku po lewej stronie sprawdzić można jego podstawowe informacje takie jak na przykład adres. Po prawej
 stronie widoczne są relacje. Tak też znajdują się pomieszczenia danego budynku, komórki organizacyjne czy też opiekunowie.
 
+## Flota
 Flota to kolejna baza modułu CAFM. Zawiera ona zestawienie wszystkich samochodów które należą do majątku UMWZP.
 ![Widok na szczegóły floty](images/flota-szczeg.png)
 W szczegółach danego pojazdu po lewej stronie znajdują się informacje o między innymi marce, modelu, stanie technicznym
 czy przebiegu. Po prawej stronie w relacjach można sprawdzić kto jest opiekunem oraz w jakich okresach dany pojazd jest
-zarezerwowany.
+zarezerwowany. 
 
+## Pomieszczenia
 Moduł “Pomieszczenia” to kolejny element systemu który opisuje wszystkie pomieszczenia znajdujące się w budynkach
 objętych nadzorem Platformy FM.
 ![Widok na szczegóły pomieszczenia](images/pomieszczenia-szczeg.png)
@@ -74,6 +79,7 @@ piętrze znajduje się to pomieszczenie, jaką ma powierzchnię czy też jakiego
 prawej stronie można sprawdzić w jakim budynku znajduje się to pomieszczenie, kto jest za nie odpowiedzialny czy też do
 jakiej komórki organizacyjnej przynależy.
 
+## Komórki organizacyjne
 Ostatnim narzędziem jest struktura organizacyjna nazwana “Komórki Organizacyjne” która prezentowana jest w postaci
 rozwijanego drzewa. Za pomocą strzałki (**1.**) można rozwinąć daną komórkę organizacyjną i zobaczyć podległe jej biura.
 Klikając w nazwę (**2.**) można przejść do szczegółów danej komórki organizacyjnej lub biura.

@@ -42,4 +42,4 @@ ilustracji
 Dodawanie nowych obliczeń występuje w menu edycji (**1.**) po dodaniu nowego pola (**2.**) W karcie trzeba uzupełnić
 nazwę (**3.**) a poniżej znajduje się  okno na wprowadzenie obliczeń. Dostęp do konkretnego pola następuje poprzez
 wprowadzenie ścieżki ID definicji (**4.**)/ ID obiektu (**5.**)/ ID pola (**6.**). Deklaracja zmiennej polega na dodaniu
-“val” i nazwy zmiennej (**7.**) Przykładowe obliczenie widoczne na na końcu karty (**8.**)
+“val” i nazwy zmiennej (**7.**) Przykładowe obliczenie widoczne jest na końcu karty (**8.**)
