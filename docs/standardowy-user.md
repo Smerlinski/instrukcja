@@ -38,7 +38,6 @@ Widok na szczegóły karty zadania (dostępny po kliknięciu na kartę zadania).
 (**1.**) oraz do zakończenia danego zadania(**2.**). Zadania przydzielone do danego użytkownika pojawiają się również w
 jego kalendarzu tworząc tygodniowy plan pracy jak pokazano na poniższej ilustracji.
 
-
 ## Kalendarz
 ![Widok na kalendarz](images/kalendarz.png)
 Przejście do kalendarza następuje poprzez wciśnięcie przycisku (**1.**) na menu pomocniczym. Obecna data i godzina

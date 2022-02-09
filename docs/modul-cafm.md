@@ -5,7 +5,7 @@ Jednym z ważniejszych narzędzi modułu CAFM jest baza użytkowników/pracownik
 poniższym obrazie.
 ![Widok na tabele użytkowników](images/users-tab.png)
 W menu *UŻYTKOWNICY* widoczni są wszyscy użytkownicy dodani do systemu. Kontrolowanie filtrów, eksportowanie czy inne 
-podstawowe przyciski kontrolne znajdują się w standardowych miejscach i pełnią te  same funkcje jak opisane we
+podstawowe przyciski kontrolne znajdują się w standardowych miejscach i pełnią te same funkcje jak opisane we
 wcześniejszych modułach. 
 
 ![Widok na profil użytkownika](images/users-profil.png)

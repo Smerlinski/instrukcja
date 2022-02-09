@@ -12,6 +12,7 @@ wykonane. Po prawej stronie (**7.**) można wybrać jaki zakres ma mieć wykres.
 poprzez wciśnięcie nazwy (**8.**) lub kafelka (**8.**). 
 Kafelki można przesuwać na osi czasu oraz rozciągać. Zadania, które nie mają daty rozpoczęcia lub zakończenia wyświetlony
 będą miały taki symbol (**9.**) na kafelku. 
+
 Istnieje również globalne narzędzie Gantta pozbawione narzędzi filtrowania i wyświetlające wszystkie zadania które
 zostały wprowadzone do systemu
 ![Widok na globalny wykres gantta](images/admin-2.png)
