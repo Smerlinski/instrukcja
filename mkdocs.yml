@@ -1,10 +1,12 @@
-site_name: Instrukcja
+site_name: imperius FM
 theme:
   name: material
   language: pl
   features:
     - search.highlight
     - search.suggest
+    - navigation.tabs
 markdown_extensions:
   - attr_list
   - md_in_html
+  
