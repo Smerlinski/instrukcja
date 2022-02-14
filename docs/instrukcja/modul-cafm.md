@@ -1,7 +1,7 @@
 # Moduł CAFM
 
 ## Użytkownicy
-Jednym z ważniejszych narzędzi modułu CAFM jest baza użytkowników/pracowników. Przykład takiej bazy zaprezentowano na
+Jednym z ważniejszych narzędzi modułu *CAFM* jest baza użytkowników/pracowników. Przykład takiej bazy zaprezentowano na
 poniższym obrazie.
 ![Widok na tabele użytkowników](../images/users-tab.png)
 W menu *UŻYTKOWNICY* widoczni są wszyscy użytkownicy dodani do systemu. Kontrolowanie filtrów, eksportowanie czy inne 
@@ -14,7 +14,7 @@ prawej stronie widoczne są wszystkie relacje do których jest podpięty czyli p
 biuro do niego przydzielone).
 
 ## Kontrahenci
-Kolejnym ważnym narzędziem w module CAFM jest baza kontrahentów. Jej przykład został zaprezentowany poniżej.
+Kolejnym ważnym narzędziem w module *CAFM* jest baza kontrahentów. Jej przykład został zaprezentowany poniżej.
 ![Widok na tabele kontrahentów](../images/kontrahenci-tab.png)
 W bazie kontrahentów znaleźć się mogą wszystkie firmy realizujące usługi na rzecz UMWZP lub jego pracowników.
 Kontrolowanie tego widoku przebiega w sposób standardowy podobny do opisanych wcześniej. 
@@ -32,8 +32,8 @@ W szczegółach wybranej powierzchni po lewej stronie można zobaczyć jaka jest
 powinna być czyszczona. Po prawej stronie widać w jakich pomieszczeniach ta powierzchnia się znajduje. 
 
 ## CAFM
-![Widok na tabele bazy CFAM](../images/cafm-tab.png)
-W bazie CAFM widoczne są wszystkie przedmioty wprowadzone do systemu.
+![Widok na tabele bazy CAFM](../images/cafm-tab.png)
+W bazie *CAFM* widoczne są wszystkie przedmioty wprowadzone do systemu.
 
 ![Widok na szczegóły przedmiotu z bazy CAFM](../images/cafm-szczeg.png)
 W szczegółach przedmiotu po lewej stronie znajdują się podstawowe informacje takie jak model, producent czy data końca 
@@ -48,7 +48,7 @@ W szczegółach danej usługi po lewej stronie dostępny jest jej zakres, zaś p
 do realizacji tych usług (np. formularze, cenniki czy umowy)
 
 ## Umowy
-Moduł “Umowy” jest istotną częścią systemu i stanowić może zbiór umów wiążących usługi opisywane w różnych modułach
+Moduł “*Umowy*” jest istotną częścią systemu i stanowić może zbiór umów wiążących usługi opisywane w różnych modułach
 Platformy FM. Umowy dotyczyć mogą zleceń międzywydziałowych czy kontraktów zawieranych z kontrahentami 
 ![Widok na tabele umów](../images/umowy-tab.png)
 Po otwarciu dowolnej umowy otwarte zostanie okno w którym po lewej stronie dostępne są podstawowe informacje takie jak
@@ -57,21 +57,21 @@ kontrahentem została zawarta. Widok przykładowej karty umowy zaprezentowano na
 ![Widok na szczegóły umowy](../images/umowy-szczeg.png)
 
 ## Budynki
-Moduł “Budynki” to kolejny element systemu który opisuje wszystkie lokalizacje w których realizowana jest praca z
+Moduł “*Budynki*” to kolejny element systemu który opisuje wszystkie lokalizacje w których realizowana jest praca z
 Platformą FM.
 ![Widok na szczegóły budynku](../images/budynki-szczeg.png)
 W szczegółach budynku po lewej stronie sprawdzić można jego podstawowe informacje takie jak na przykład adres. Po prawej
 stronie widoczne są relacje. Tak też znajdują się pomieszczenia danego budynku, komórki organizacyjne czy też opiekunowie.
 
 ## Flota
-Flota to kolejna baza modułu CAFM. Zawiera ona zestawienie wszystkich samochodów które należą do majątku UMWZP.
+*Flota* to kolejna baza modułu *CAFM*. Zawiera ona zestawienie wszystkich samochodów które należą do majątku UMWZP.
 ![Widok na szczegóły floty](../images/flota-szczeg.png)
 W szczegółach danego pojazdu po lewej stronie znajdują się informacje o między innymi marce, modelu, stanie technicznym
 czy przebiegu. Po prawej stronie w relacjach można sprawdzić kto jest opiekunem oraz w jakich okresach dany pojazd jest
 zarezerwowany. 
 
 ## Pomieszczenia
-Moduł “Pomieszczenia” to kolejny element systemu który opisuje wszystkie pomieszczenia znajdujące się w budynkach
+Moduł “*Pomieszczenia*” to kolejny element systemu który opisuje wszystkie pomieszczenia znajdujące się w budynkach
 objętych nadzorem Platformy FM.
 ![Widok na szczegóły pomieszczenia](../images/pomieszczenia-szczeg.png)
 W pomieszczeniu w podstawowych informacjach znajdujących się po lewej stronie można sprawdzić między innymi na którym
@@ -80,11 +80,11 @@ prawej stronie można sprawdzić w jakim budynku znajduje się to pomieszczenie,
 jakiej komórki organizacyjnej przynależy.
 
 ## Komórki organizacyjne
-Ostatnim narzędziem jest struktura organizacyjna nazwana “Komórki Organizacyjne” która prezentowana jest w postaci
+Ostatnim narzędziem jest struktura organizacyjna nazwana “*Komórki Organizacyjne*” która prezentowana jest w postaci
 rozwijanego drzewa. Za pomocą strzałki (**1.**) można rozwinąć daną komórkę organizacyjną i zobaczyć podległe jej biura.
 Klikając w nazwę (**2.**) można przejść do szczegółów danej komórki organizacyjnej lub biura.
 ![Widok na tabele komórek organizacyjnych](../images/komorki-tab.png)
-Dane dla narzędzia “Komórki organizacyjne” pobierane są z bazy AD. Dane prezentowane są w sposób hierarchiczny.
+Dane dla narzędzia “*Komórki organizacyjne*” pobierane są z bazy AD. Dane prezentowane są w sposób hierarchiczny.
 ![Widok na szczegóły komórek organizacyjnych](../images/komorki-szczeg.png)
 W szczegółach wydziału po lewej stronie widoczna jest nazwa i hierarchia danego wydziału. Po prawej w relacjach można
 sprawdzić jacy użytkownicy i jakie pomieszczenia są przypisane do tego wydziału.

@@ -1,7 +1,7 @@
 # Moduł EMS
 
 ## Media
-Istotną częścią modułu EMS jest opis systemu dystrybucji mediów zawarty w narzędziu Media. Zawiera on informacje o
+Istotną częścią modułu *EMS* jest opis systemu dystrybucji mediów zawarty w narzędziu *Media*. Zawiera on informacje o
 wszystkich rodzajach mediów wykorzystywanych w budynkach UMWZP wraz z najważniejszymi informacjami. Poniższy obraz
 prezentuje przykładowe zestawienie mediów
 ![Widok na tabele mediów](../images/media-tab.png)
@@ -29,7 +29,7 @@ jest lista (**2.**) na której należy wybrać jakie obiekty mają zostać wyśw
 się pole (**3.**) gdzie można wybrać zakres dat z jakich dane mają być wyświetlane. Jeśli w danej definicji dodane było
 więcej wykresów to pojawiają się one jeden pod drugim i należy zjechać w dół strony, aby zobaczyć kolejne.
 Ilość typów wykresów które mogą być prezentowane w tym miejscu konfigurowana jest przez użytkowników z odpowiednimi
-uprawnieniami w następujący sposób.
+uprawnieniami.
 ### Tworzenie wykresu
 ![Widok na tworzenie wykresu](../images/licznik-wykresy.png)
 Aby dodać nowy wykres należy najechać kursorem na nazwę definicji a następnie kliknąć ikonę wykresu (**1.**) Na dole

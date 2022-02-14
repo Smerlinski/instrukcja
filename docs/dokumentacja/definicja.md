@@ -44,4 +44,4 @@ Pola wyświetlane są w kolejności od lewej do prawej, z góry do dołu. Kolej
 ### Status obiektu
 ![Status obiektu](../images/pola-status.png)
 
-Obiekty mogą mieć różne statusy. Status DRAFT (**1.**) i INVALID (**3.**) są zawsze w trybie edycji. Tryb obiektu przy statusie SAVED (**2.**) zależy jest od przełącznika edycji (**5.**). Przy statusie CLOSED (**4.**) edycja jest wyłączona i dane można tylko odczytać.
+Obiekty mogą mieć różne statusy. Status *DRAFT* (**1.**) i *INVALID* (**3.**) są zawsze w trybie edycji. Tryb obiektu przy statusie SAVED (**2.**) zależy jest od przełącznika edycji (**5.**). Przy statusie *CLOSED* (**4.**) edycja jest wyłączona i dane można tylko odczytać.

@@ -7,8 +7,8 @@ Zadanie cykliczne w sposób ciągły i w określonym interwale czasowym automaty
 
 ## Karta zadania cyklicznego
 ![Karta zadania cyklicznego](../images/rec-task-pic.png)
-(1.) Wybór daty początkowej
-(2.) Co ile dni nowe zadanie ma zostać utworzone
-(3.) Czas trwania pojedynczego zadania
-(4.) Wybór odpowiedzialnego użytkownika
-(5.) Miejsce wyświetlania utworzonych zadań (wyszarzone są już wykonane)
+(**1.**) Wybór daty początkowej
+(**2.**) Co ile dni nowe zadanie ma zostać utworzone
+(**3.**) Czas trwania pojedynczego zadania
+(**4.**) Wybór odpowiedzialnego użytkownika
+(**5.**) Miejsce wyświetlania utworzonych zadań (wyszarzone są już wykonane)

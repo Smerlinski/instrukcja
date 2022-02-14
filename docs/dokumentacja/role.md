@@ -12,10 +12,12 @@ Na powyższym obrazku zaznaczone zostało miejsce wyboru i pojawiania się przyp
 ![Dodawanie nowej roli](../images/nowa-rola.png)
 Utworzyć nową rolę można poprzeć przycisk plusa znajdujący się w dwóch powyżej zaznaczonych miejscach. Po kliknięciu ukaże się okno gdzie trzeba wpisać nazwę nowej roli po czym otwiera się jej karta.
 ![Dodanie uprawnień do roli](../images/dodanie-uprawnien.png)
+
 1. W tym miejscu można wybrać i dodać już istniejące uprawnienie
 2. Tutaj można utworzyć nowe uprawnienie
 
 ![Stworzenie uprawnienia w roli](../images/nowe-uprawnienie-w-roli.png)
+
 1. Wybór jakiej definicji ma dotyczyć uprawnienie
 2. Prawa jakie dane uprawnienie będzie posiadać
 

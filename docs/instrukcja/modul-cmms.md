@@ -3,7 +3,7 @@
 ## Grupy i typy
 ![Widok na grupy](../images/grupy.png)
 Ważnym elementem modułu *CMMS* jest drzewo Grup i Typów które szereguje wszystkie elementy budynku zawarte w bazie
-*CMMS*. Narzędzie “Grupy” prezentowane jest w postaci rozwijanego drzewa pokazują pogrupowane wszystkie dostępne Grupy i
+*CMMS*. Narzędzie “*Grupy*” prezentowane jest w postaci rozwijanego drzewa pokazują pogrupowane wszystkie dostępne Grupy i
 Typy urządzeń. Za pomocą strzałki (**1.**) można rozwinąć daną grupę. Jeśli po jej kliknięciu nie pojawią się nowe
 elementy to znaczy, że nie ma więcej podgrup i klikając w nazwę (**2.**) można przejść do szczegółów danej podgrupy.
 
@@ -44,7 +44,7 @@ Po wybraniu dowolnego wiersza w tabeli otwarta zostaje karta przeglądu której 
 Po lewej stronie (**1.**) znajduje się miejsce na wprowadzenie podstawowych informacji o danym przeglądzie. Istnieje
 możliwość dodania pliku (**2.**) Po prawej stronie (**3.**) można wybrać jakiego urządzenie/grupy dotyczyć ma przegląd.
 Po kliknięciu w przycisk (**4.**) nie będzie możliwości wprowadzenia zmiany w danych oraz utworzone zostanie nowe zadanie
-do którego przypisani zostaną wszyscy użytkownicy którzy posiadają rolę Przegląd.
+do którego przypisani zostaną wszyscy użytkownicy którzy posiadają rolę *Przegląd*.
 Przeglądy utworzone w formie zadań rejestrowane są w bazie “*Zadania*” która jest narzędziem wspólnym dla wielu modułów
 dlatego znajduje się w grupie “*OGÓLNA*” i zostanie omówiona w kolejnej części niniejszej instrukcji.
 ![Widok na tworzenie przeglądu](../images/przeglady-nowy.png)
@@ -52,4 +52,4 @@ Osoba odpowiedzialna za tworzenie przeglądów cyklicznym robi to poprzez klikni
 następnie uzupełnia pola po prawej stronie ekranu i klika kartę po lewej stronie na której pojawią się uzupełnione dane. 
 ![Widok na utworzony przegląd](../images/przeglady-nowy-zapisany.png)
 Karta po zapisaniu i zakończeniu edycji przechodzi w tryb tylko do odczytu. Jednocześnie tworzone jest nowe zadanie,
-które trafia na panele użytkowników posiadających role Przegląd. 
+które trafia na panele użytkowników posiadających role *Przegląd*. 

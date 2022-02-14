@@ -21,6 +21,7 @@ Na powyższym obrazku widać przykładową kartę uprawnień. Wybrano definicję
 ## Zmiana zakresu uprawnień 
 ![Zmiana uprawnień](../images/zmiana-uprawnien.png)
 Zmiana uprawnień dla konkretnej roli może być wykonana w następujący sposób:
+
 1. Otwarcie menu filtrów
 2. Wybór odpowiedniej roli
 3. Włączenie trybu edycji tabeli
