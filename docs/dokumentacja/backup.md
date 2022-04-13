@@ -26,10 +26,10 @@ docker save -o exports.gz exports:latest
 docker save -o users.gz users:latest 
 docker save -o notes.gz notes:latest 
 docker save -o web-app_node_red.gz notes:latest 
-docker save -o files.gz
-docker save -o web-app_superset.gz web-app_superset 
-docker save -o web-app_webapp.gz web-app_webapp  
-docker save -o instap_postgraphile.gz instap_postgraphile 
+docker save -o files.gz files:latest
+docker save -o web-app_superset.gz web-app_superset:latest 
+docker save -o web-app_webapp.gz web-app_webapp:latest  
+docker save -o instap_postgraphile.gz instap_postgraphile:latest 
 ```
 
 ### Backup bazy danych
