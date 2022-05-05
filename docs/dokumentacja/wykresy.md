@@ -10,4 +10,4 @@ Aby dodać nowy wykres należy najechać kursorem na nazwę definicji a następn
 W systemie dostępnych jest wiele rodzajów wykresów. Standardowe jak wykresy kołowe, liniowe czy słupkowe. Jest też możliwość utworzenia diagramu Gantta jeśli dana definicja jest typu *TASKS*.
 
 ![Klasa energetyczna i prognoza pogody](../images/wykres-3.png)
-Niestandardowymi wykresami są klasa energetyczna (**1.**) oraz prognoza temperatury zewnętrznej (**2.**). Przy klasie energetycznej potrzebne jest pole liczbowe, które pokazywać będzie zużycie energii użytkowej w kWh/m2/rok. Prognozowana temperatura zewnętrzna bierzę pod uwagę lokalizację danego budynku. 
+Niestandardowymi wykresami są klasa energetyczna (**1.**) oraz prognoza temperatury zewnętrznej (**2.**). Przy klasie energetycznej potrzebne jest pole liczbowe, które pokazywać będzie zużycie energii użytkowej w kWh/m2/rok. Aby ten znacznik pokazywał się na mapie, przy jego tworzeniu trzeba zaznaczyć rodzaj *Na mapie*. Prognozowana temperatura zewnętrzna bierzę pod uwagę lokalizację danego budynku. 
