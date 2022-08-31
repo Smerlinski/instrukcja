@@ -46,3 +46,9 @@ Zadania, które nie zostały wykonane w czasie podświetlane są na czerwono, na
 sprawia, że pojawia się karta ze szczegółami danego zadania. W prawym dolnym rogu znajdują się przyciski do kontrolowania
 kalendarza. Od góry jest to przejście do następnego tygodnia (**4.**), przejście do poprzedniego tygodnia (**5.**) i
 przeniesienie do dnia dzisiejszego (**6.**)
+
+## Wybór budynku
+![Wybór budynku 1](../images/budynek1.PNG)
+Po kliknięciu w miejsce zaznaczone na czerwono znajdujące się na dolnej belce zostanie rozwinięte menu. 
+![Wybór budynku 2](../images/budynek2.PNG)
+Tutaj można wybrać z którego budynku dane mają być wyświetlane. Aby zamknąć menu należy skorzystać z białego krzyżyka w prawym górnym rogu menu, lub kliknąć gdziekolwiek poza menu.
